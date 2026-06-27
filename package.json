@@ -2,6 +2,7 @@
   "name": "rojino-backend",
   "version": "1.0.0",
   "description": "Search backend for the Rojino app — returns shop results in the app's JSON shape.",
+  "license": "UNLICENSED",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
