@@ -3,3 +3,6 @@ dist
 .env
 .tsbuildinfo
 coverage
+
+# Keep for local pnpm dev; Liara deploys with npm (package-lock.json).
+pnpm-lock.yaml
